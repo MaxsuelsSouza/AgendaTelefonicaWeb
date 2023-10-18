@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AgendaTelefonica.Api.props" />
+</Project>
