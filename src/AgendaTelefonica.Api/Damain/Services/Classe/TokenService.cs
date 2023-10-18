@@ -29,7 +29,6 @@ namespace AgendaTelefonica.Api.Damain.Services.Classe
             {
                 Subject = new ClaimsIdentity(new Claim[]{
                     new Claim("id", usuario.Id.ToString()),
-                    new Claim("telefone", usuario.Telefone),
 
                 }),
 

@@ -8486,11 +8486,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maxsu\\C#\\Projeto agenda WebApi\\AgendaTelefonicaWeb\\test\\AgendaTelefonica.Test\\AgendaTelefonica.Test.csproj",
+      "projectUniqueName": "C:\\Users\\maxsu\\C#\\Projeto GitHub\\AgendaTelefonicaWeb\\test\\AgendaTelefonica.Test\\AgendaTelefonica.Test.csproj",
       "projectName": "AgendaTelefonica.Test",
-      "projectPath": "C:\\Users\\maxsu\\C#\\Projeto agenda WebApi\\AgendaTelefonicaWeb\\test\\AgendaTelefonica.Test\\AgendaTelefonica.Test.csproj",
+      "projectPath": "C:\\Users\\maxsu\\C#\\Projeto GitHub\\AgendaTelefonicaWeb\\test\\AgendaTelefonica.Test\\AgendaTelefonica.Test.csproj",
       "packagesPath": "C:\\Users\\maxsu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxsu\\C#\\Projeto agenda WebApi\\AgendaTelefonicaWeb\\test\\AgendaTelefonica.Test\\obj\\",
+      "outputPath": "C:\\Users\\maxsu\\C#\\Projeto GitHub\\AgendaTelefonicaWeb\\test\\AgendaTelefonica.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maxsu\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -8505,8 +8505,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\maxsu\\C#\\Projeto agenda WebApi\\AgendaTelefonicaWeb\\src\\AgendaTelefonica.Api\\AgendaTelefonica.Api.csproj": {
-              "projectPath": "C:\\Users\\maxsu\\C#\\Projeto agenda WebApi\\AgendaTelefonicaWeb\\src\\AgendaTelefonica.Api\\AgendaTelefonica.Api.csproj"
+            "C:\\Users\\maxsu\\C#\\Projeto GitHub\\AgendaTelefonicaWeb\\src\\AgendaTelefonica.Api\\AgendaTelefonica.Api.csproj": {
+              "projectPath": "C:\\Users\\maxsu\\C#\\Projeto GitHub\\AgendaTelefonicaWeb\\src\\AgendaTelefonica.Api\\AgendaTelefonica.Api.csproj"
             }
           }
         }

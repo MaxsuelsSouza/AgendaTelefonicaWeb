@@ -11,7 +11,7 @@ namespace AgendaTelefonica.Api.Contratos.Contatos
     {
         protected long ObterIdUsuarioLogado()
         {
-            var id = HttpContext.User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+            var id = HttpContext.User.FindFirst("id")?.Value;
 
 
             long.TryParse(id, out long idUsuario);

@@ -19,10 +19,10 @@ namespace AgendaTelefonica.Api.Damain.Models
         public string? SobreNome { get; set; }
         [Required(ErrorMessage = "Ocampo e obrigatorio.")]
         public string Numero { get; set; } = string.Empty;
-        public string Email { get; set; }
-        public string Endereco { get; set; }
-        public string RedeSocial { get; set; }
-        public string Nota { get; set; }
+        public string? Email { get; set; }
+        public string? Endereco { get; set; }
+        public string? RedeSocial { get; set; }
+        public string? Nota { get; set; }
 
         public Contatos(
             string nome,

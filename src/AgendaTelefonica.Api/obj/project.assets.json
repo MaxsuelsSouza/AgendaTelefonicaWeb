@@ -3119,11 +3119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maxsu\\C#\\Projeto agenda WebApi\\AgendaTelefonicaWeb\\src\\AgendaTelefonica.Api\\AgendaTelefonica.Api.csproj",
+      "projectUniqueName": "C:\\Users\\maxsu\\C#\\Projeto GitHub\\AgendaTelefonicaWeb\\src\\AgendaTelefonica.Api\\AgendaTelefonica.Api.csproj",
       "projectName": "AgendaTelefonica.Api",
-      "projectPath": "C:\\Users\\maxsu\\C#\\Projeto agenda WebApi\\AgendaTelefonicaWeb\\src\\AgendaTelefonica.Api\\AgendaTelefonica.Api.csproj",
+      "projectPath": "C:\\Users\\maxsu\\C#\\Projeto GitHub\\AgendaTelefonicaWeb\\src\\AgendaTelefonica.Api\\AgendaTelefonica.Api.csproj",
       "packagesPath": "C:\\Users\\maxsu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxsu\\C#\\Projeto agenda WebApi\\AgendaTelefonicaWeb\\src\\AgendaTelefonica.Api\\obj\\",
+      "outputPath": "C:\\Users\\maxsu\\C#\\Projeto GitHub\\AgendaTelefonicaWeb\\src\\AgendaTelefonica.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maxsu\\AppData\\Roaming\\NuGet\\NuGet.Config"

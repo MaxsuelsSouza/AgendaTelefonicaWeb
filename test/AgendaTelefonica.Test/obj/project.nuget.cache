@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JXknbqe8i5+wkccfo4UvFhfyIBKzPXCU2aVBJCC6XBOWi81Oru1apX2q+y92d8PGEe+4a5vQY2ri4DSGcygHzQ==",
+  "dgSpecHash": "OS3vQ/yHSER6IPkj4HyueukosT5shqzSXuyXOweOSJR0yobcu27CDKa6wTPQQXHVZt7mT3+phye8+LW1Cf7i2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maxsu\\C#\\Projeto agenda WebApi\\AgendaTelefonicaWeb\\test\\AgendaTelefonica.Test\\AgendaTelefonica.Test.csproj",
+  "projectFilePath": "C:\\Users\\maxsu\\C#\\Projeto GitHub\\AgendaTelefonicaWeb\\test\\AgendaTelefonica.Test\\AgendaTelefonica.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxsu\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\maxsu\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

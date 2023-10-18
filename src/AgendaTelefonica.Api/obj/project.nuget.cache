@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OQR659AvVd3W6El274bn+nh6g39pGkki2iRj8CocvuSbZegaxPLNdONyV4UqIRpxYybZ6pOhqp4ZLUeh5K2qnA==",
+  "dgSpecHash": "emUVb5h5/RKMPupdqJo+TPWqY8ZIwfifR25EJPqMlCFljovHTC5hUYuVYs2/tQgDUqiQWlAmnW7vU3bYQCowPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maxsu\\C#\\Projeto agenda WebApi\\AgendaTelefonicaWeb\\src\\AgendaTelefonica.Api\\AgendaTelefonica.Api.csproj",
+  "projectFilePath": "C:\\Users\\maxsu\\C#\\Projeto GitHub\\AgendaTelefonicaWeb\\src\\AgendaTelefonica.Api\\AgendaTelefonica.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxsu\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\maxsu\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
